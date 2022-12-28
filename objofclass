@@ -1,0 +1,8 @@
+class student():
+    name="golu rathaur"
+    program="CSE"
+    fee="100000"
+s=student()
+print(s.name)
+print(s.program)
+print(s.fee)
